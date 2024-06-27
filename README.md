@@ -39,16 +39,6 @@ This project is the front-end part of a MERN stack joke application. It is built
     npm run dev
     ```
 
-** Available Scripts**
-```plaintext
-npm run dev: Starts the development server.
-npm run build: Builds the app for production.
-npm run preview: Serves the built app.
-
-** Contributing**
-```plaintext
-Contributions are welcome! Please open an issue or submit a pull request.
-
 
 ## Project Structure
 
