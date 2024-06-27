@@ -33,13 +33,8 @@ This project is the front-end part of a MERN stack joke application. It is built
     npm install
     ```
 
-3. **Set up environment variables:**
-    Create a `.env` file in the root directory and add your backend API URL:
-    ```env
-    VITE_API_URL=your_backend_api_url
-    ```
 
-4. **Start the development server:**
+3. **Start the development server:**
     ```bash
     npm run dev
     ```
@@ -55,3 +50,13 @@ src/
 ├── main.jsx
 ├── store.js
 └── index.css
+
+## Available Scripts
+```plaintext
+npm run dev: Starts the development server.
+npm run build: Builds the app for production.
+npm run preview: Serves the built app.
+
+## Contributing
+```plaintext
+Contributions are welcome! Please open an issue or submit a pull request.
